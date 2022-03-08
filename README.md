@@ -22,25 +22,22 @@
 ### **1. 과제 Repository 방문하기**
 
 - **repository 주소: [https://github.com/2022S-Ajou-F058-1/HW0](https://github.com/2022S-Ajou-F058-1/HW0)**
+<img src='./img/Screen_Shot_2022-03-06_at_5.22.09_PM.png' >
 
-![Screen Shot 2022-03-06 at 5.22.09 PM.png](HW0%20419aa/Screen_Shot_2022-03-06_at_5.22.09_PM.png)
 
 ### 2. 노트북 사본 저장하기
 
 - HW0.ipynb 클릭
-- Hello Colab 위에 있는 <Open in Colab> ****클릭하여 노트북 파일 열기
-    
-    ![Untitled](HW0%20419aa/Untitled.png)
+- Hello Colab 위에 있는 <Open in Colab> 을 클릭하여 노트북 파일 열기
+    <p align='left'> <img src='./img/Untitled.png' >
     
 
 - 코랩 환경에서 툴바 왼쪽 상단의 <Drive로 복사> 를 클릭하여 본인 계정 구글 드라이브로 파일 복사
-    
-    ![Untitled](HW0%20419aa/Untitled%201.png)
-    
+     <p align='left'> <img src='./img/Untitled 1.png' >
+
 
 - 복사가 완료되면 파일명 앞의 깃허브 아이콘이 드라이블 아이콘으로 바뀜
-    
-    ![Untitled](HW0%20419aa/Untitled%202.png)
+      <p align='left'> <img src='./img/Untitled 2.png' >
     
 
 ⚠️  **Repository를 Fork 하지 마세요!**
@@ -67,20 +64,18 @@
     - **Add a README file 체크** ⇒ main branch를 만들어줌
         
         branch가 없으면 코랩에서 업로드가 불가능
-        
-    
-    ![Untitled](HW0%20419aa/Untitled%203.png)
+               
+     <p align='left'> <img src='./img/Untitled 3.png'>    
     
 
 - **코랩에서 파일 → Github에 사본 저장**
+     <p align='left'> <img src='./img/Untitled 4.png'>    
     
-    ![Untitled](HW0%20419aa/Untitled%204.png)
-    
+
 - **github와 코랩 연결**
     
     아래와 같은 화면에서 github에 로그인하여 github 계정을 코랩과 연결합니다.
-    
-    ![Untitled](HW0%20419aa/Untitled%205.png)
+     <p align='left'> <img src='./img/Untitled 5.png'>  
     
 
 아래와 같은 창에서 
@@ -90,12 +85,12 @@
 - 파일 경로 설정
 - 변경사항 설명 메시지는 git에서 commit 메시지와 같습니다.
 - ⭐ **Colaboratory 링크 반드시 추가하기**
+ <p align='left'> <img src='./img/Untitled 6.png'>  
 
-![Untitled](HW0%20419aa/Untitled%206.png)
 
 ⚠️  저장소가 private이라서 코랩 상에서 뜨지 않는다면 설정 → Github → 비공개 저장소 및 조직에 액세스 설정
+ <p align='left'> <img src='./img/Untitled 7.png'> 
 
-![Untitled](HW0%20419aa/Untitled%207.png)
 
 - **코랩에서 github로 저장 완료가 되면 새로 열리는 github 창에서 업로드 확인을 할 수 있음**
 - 코랩에서 github로 업로드를 할 때 이미 업로드를 한 파일이더라도 파일명을 같게 업로드하면 자동으로 수정된 파일이 업로드 됨
@@ -109,7 +104,7 @@
     
     - 아래 사진과 같이 code 버튼을 눌렀을 때 나오는 HTTPS 주소를 bb 과제 제출 페이지에 업로드
 
-![Untitled](HW0%20419aa/Untitled%208.png)
+ <p align='left'> <img src='./img/Untitled 8.png'> 
 
 # 끝  🎉
 
